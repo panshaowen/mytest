@@ -9,7 +9,7 @@ import java.util.Properties;
 
 public class JDBCUtil {
 	// ¼ÓÔØÅäÖÃÎÄ¼ş
-	private static Properties properties = new Properties();
+	private static Properties properties = new Properties() ;
 
 	static {
 		
