@@ -1,3 +1,0 @@
-001,psw,23,gz
-002,hsz,34,zhaoq
-003,ljf,23,shantou
